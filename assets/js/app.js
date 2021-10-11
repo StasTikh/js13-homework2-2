@@ -6,6 +6,7 @@ function reverseSum() {
     
     
     let sum = inputCode.value;
+    
     let finalSum = 0;
     let checkSum = sum.split(''); 
 
